@@ -30,7 +30,7 @@
             android:layout_gravity="center"
             android:layout_width="match_parent"
             android:layout_height="48dp"
-            android:hint="Search something..."/>
+            android:hint="Search @username..."/>
 
     </LinearLayout>
 
